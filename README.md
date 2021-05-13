@@ -1,6 +1,7 @@
 # ffconvert
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to re-encode your mp3 files using Lame mp3 encoder.
+You can find more at: https://savo.rocks/posts/playing-new-music-on-old-car-stereo-with-clojure-and-babashka/
 
 ## Usage
 
